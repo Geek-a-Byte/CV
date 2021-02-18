@@ -9,18 +9,16 @@ title: Resume
 
 ---
 
-<br/>
 - B.Sc. at Computer Science and Engineering from Military Institute of Science and Technology (still continuing)
 - Higher Secondary Certificate : Holy Cross College (Year of passing , 2018)
 - Secondary School Certificate : Holy Cross Girls’ High School (Year of passing, 2016)
-<br/>
+
 ---
 
 ## Academic Result
 
 ---
 
-<br/>
 - MIST Dean’s List of honor - 2019
   **_Academic Session (2018 - 2019)_**
 
@@ -31,8 +29,6 @@ title: Resume
 ## Projects
 
 ---
-
-<br/>
 
 ### **_[Foodonation](https://github.com/Geek-a-Byte/Foodonation)_** &middot; **_Group Project_**
 
@@ -80,8 +76,6 @@ title: Resume
 
 ---
 
-<br/>
-
 - **_Programming Languages_** : C++, C, Java, Dart
 - **_Database_** : Firebase
 - **_IDE_** : Codeblocks, IntelliJ, Visual - Studio Code , Sublime Text
@@ -95,7 +89,6 @@ title: Resume
 
 ---
 
-<br/>
 - Obtained 38th position (team Bitchamps) in Inter University Girls' Programming Contest Season 2 arranged by NSU.<br>
   **_Contest Standings[](https://toph.co/c/iugpc-s2/standings)_**
 
@@ -114,7 +107,6 @@ title: Resume
 
 ---
 
-<br/>
 - **_Raiyan Rahman_** <br>
   Lecturer, department of CSE<br>
   Military Institute of Science and Technology<br>
@@ -126,5 +118,3 @@ title: Resume
   Bongo - Stellar Digital Ltd.<br>
   Contact : +8801675489959<br>
   Email : shahrin.manzur@bongobd.com
-
-<br/>
