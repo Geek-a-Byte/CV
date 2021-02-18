@@ -9,16 +9,18 @@ title: Resume
 
 ---
 
+<br/>
 - B.Sc. at Computer Science and Engineering from Military Institute of Science and Technology (still continuing)
 - Higher Secondary Certificate : Holy Cross College (Year of passing , 2018)
 - Secondary School Certificate : Holy Cross Girls’ High School (Year of passing, 2016)
-
+<br/>
 ---
 
 ## Academic Result
 
 ---
 
+<br/>
 - MIST Dean’s List of honor - 2019
   **_Academic Session (2018 - 2019)_**
 
@@ -29,6 +31,8 @@ title: Resume
 ## Projects
 
 ---
+
+<br/>
 
 ### **_[Foodonation](https://github.com/Geek-a-Byte/Foodonation)_** &middot; **_Group Project_**
 
@@ -62,11 +66,11 @@ title: Resume
 - **_Description_** : traditional sudoku game.
 - **_Language/Framework_** : C
 
-### **_[MIST Innovation Club Website](https://github.com/Geek-a-Byte/Sudoku):_** &middot; **_Group Project_**
+### **_[MIST Innovation Club Website](https://github.com/Geek-a-Byte/Sudoku)_** &middot; **_Group Project_**
 
 - **_Description_** : the official website of MIST Innovation Club
 - **_CMS &#124; Tool_** : Wordpress, Elementor
-- **_Website Link :(http://innovationclub.mist.ac.bd)_**
+- **_Website Link :[](http://innovationclub.mist.ac.bd)_**
 
 <br/>
 
@@ -75,6 +79,8 @@ title: Resume
 ## Computer Skills :
 
 ---
+
+<br/>
 
 - **_Programming Languages_** : C++, C, Java, Dart
 - **_Database_** : Firebase
@@ -89,13 +95,14 @@ title: Resume
 
 ---
 
+<br/>
 - Obtained 38th position (team Bitchamps) in Inter University Girls' Programming Contest Season 2 arranged by NSU.<br>
-  **_Contest Standings :(https://toph.co/c/iugpc-s2/standings)_**
+  **_Contest Standings[](https://toph.co/c/iugpc-s2/standings)_**
 
 - Participated in an online competition arranged by a non-profitable organization Techwarno and obtained 2nd runner up position on their informatics olympiad and 1st runner up position on the digital art event.<br>
 
-  - **_Digital Art event certification link (https://drive.google.com/file/d/1pquqVb_D0yM5A2O2ZSSvSVKND-xnIm9c/view?usp=sharing_**<br>
-  - **_Informatics Olympiad certification link (https://drive.google.com/file/d/1xKO-vr-PuAEIIB8pj5t1Oo0D5aeQbUMd/view?usp=sharing)_**
+  - **_Digital Art event certification link[](https://drive.google.com/file/d/1pquqVb_D0yM5A2O2ZSSvSVKND-xnIm9c/view?usp=sharing)_**<br>
+  - **_Informatics Olympiad certification link[](https://drive.google.com/file/d/1xKO-vr-PuAEIIB8pj5t1Oo0D5aeQbUMd/view?usp=sharing)_**
 
 - Supervisor of Web development, MIST Innovation Club
 
@@ -107,6 +114,7 @@ title: Resume
 
 ---
 
+<br/>
 - **_Raiyan Rahman_** <br>
   Lecturer, department of CSE<br>
   Military Institute of Science and Technology<br>
@@ -118,3 +126,5 @@ title: Resume
   Bongo - Stellar Digital Ltd.<br>
   Contact : +8801675489959<br>
   Email : shahrin.manzur@bongobd.com
+
+<br/>
