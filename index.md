@@ -4,82 +4,116 @@ title: Resume
 ---
 
 ---
-## EXPERIENCE
----
 
-### Therap (BD) Ltd.  
-***Software Engineer, QA (Oct 2019 - Present)*** &middot;	***Full-time***   
-
-Additional Responsibilities:
-* Find scopes of test automation
-* Prepare test automation scripts using Selenium WebDriver (Java)
-* Guide new QA members in the team
-
-### Therap (BD) Ltd.
-***Associate Software Engineer, QA (Sep 2018 – Sep 2019)*** &middot;	***Full-time*** 
-* Perform exploratory testing and, document and report bugs for each assigned new
-features/improvement of existing features/bug fixes targeting a release
-* Carry out regression testing prior to each release
-* Document functionalities of new and existing modules of my team
-* Collaborate with Software Developers to work on new features, improvement of existing features and bug fixes
-* Collaborate with Database Engineers to work on custom reports
-* Collaborate with Training & Content Specialists to work on release notes
-
-### HackerRank  
-***Challenge Creator (Sep 2018 – Sep 2019)*** &middot;	***Remote***
-* Created challenges for the contests: *Women's CodeSprint 3*, *Women's CodeSprint 4*, *Women's CodeSprint 5* and *RookieRank 4 in HackerRank for Developers*
-* Created challenges for technical recruiting in HackerRank for Work
-
-### Sourcetop, Inc  
-***Jr. Software Engineer (Feb 2018 – Aug 2018)*** &middot;	***Full-time***
-* Worked as a Backend Developer
-* Developed Sourcetop's website using Drupal 8
-* Worked on data migration tasks for an online educational platform project built using Moodle LMS
-
-### BRAC University     
-***Undergraduate Teaching Assistant (Jun 2015 – Aug 2016)*** &middot;	***Part-time***  
-* Appointed for the course, Programming Language II (CSE 111)
-* Helped students during tutoring time to understand concepts of Object-Oriented Language (Java)
-* Graded quiz papers  
-
-<br />
+## Education
 
 ---
-## EDUCATION
----
-### BRAC University  
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
-CGPA: **3.71** (out of **4.00**) 
 
-<br />
+**_B.Sc. at Computer Science and Engineering from Military Institute of Science and Technology (still continuing)_** <br>
+**Higher Secondary Certificate : Holy Cross College (Year of passing , 2018)** <br>
+**Secondary School Certificate : Holy Cross Girls’ High School (Year of passing, 2016)**
+
+### Academic Result
+
+**_MIST Dean’s List of honor - 2019_** &middot; **_Academic Session (2018 - 2019)_**
+
+<br/>
 
 ---
+
+## Projects
+
+---
+
+### **_[Foodonation](https://github.com/Geek-a-Byte/Foodonation):_** &middot; **_Group Project_**
+
+- **_*Description*_** :
+  an android app intended to serve food for the needy people
+
+- **_*Language/Framework*_** :
+  Flutter, Dart
+
+- **_*Platform*_**: Android
+
+### **_[BD-Health](https://github.com/Geek-a-Byte/BD-Health):_** &middot; **_Personal Project_**
+
+- **_*Description*_** :
+  a frontend development project intended for the doctors to post medical blogs
+  and the patients to share their stories as
+  well. (academic solo project)
+
+- **_*Language/Framework*_**
+  Html, CSS, Javascript and Bootstrap
+- **_*Website Link :*_** https://geek-a-byte.github.io/BD-Health/
+
+### **_[2048 Game](https://github.com/Geek-a-Byte/Game2048):_** &middot; **_Personal Project_**
+
+- **_*Description*_** : a game application where the user needs to swipe the numbers of 2’s power in a board in order to make a grand total of 2048. (academic dual project )
+
+- **_*Language/Framework*_** : Java Swing
+- **_*Github Link :*_** https://github.com/Geek-a-Byte/Game2048
+
+### **_[Sudoku](https://github.com/Geek-a-Byte/Sudoku):_** &middot; **_Personal Project_**
+
+- **_*Description*_** : traditional sudoku game.
+- **_*Language/Framework*_** : C
+
+### **_[MIST Innovation Club Website](https://github.com/Geek-a-Byte/Sudoku):_** &middot; **_Group Project_**
+
+- **_*Description*_** : the official website of MIST Innovation Club
+- **_*CMS &#124; Tool*_** : Wordpress, Elementor
+  Website Link : http://innovationclub.mist.ac.bd/
+
+<br/>
+
+---
+
+## Computer Skills :
+
+---
+
+- Programming Languages : C++, C, Java, Dart
+- Database : Firebase
+- IDE : Codeblocks, IntelliJ, Visual - Studio Code , Sublime Text
+- Technologies : Git,HTML, CSS, Adobe Illustrator
+
+<br/>
+
+---
+
 ## HONORS & ACHIEVEMENTS
+
 ---
-* Open Source Project Maintainer at [LightOJ](https://github.com/lightoj-dev/problem-tutorials)
-* One of the local winners of [Open Source Immersion 2020](https://www.facebook.com/groups/DevCDhaka/permalink/2035223959941407), Facebook Developer Circle: Dhaka
-* One of the 1,000 eligible participants to receive a limited edition swag giveaway from Facebook for Developers as part of [Open Source Immersion](https://developers.facebook.com/developercircles/open-source-immersion/)
-* Champion, 1<sup>st</sup> position in Dhaka division, and 1<sup>st</sup> solver of problem D (Team - Bracu_Codefairies) at [NSU Inter University Girl's Programming Competition 2018](https://toph.co/c/nsu-iugpc-2018/standings)
-* 23<sup>rd</sup> position (Team - BRACU StrawHats) at [The 2016 ACM-ICPC Asia Dhaka Regional Contest](https://icpc.global/regionals/finder/dhaka-2016/standings)
-* Recipient of Merit Based Scholarship at BRAC University
-* Recipient of [Special Recognition Award](https://drive.google.com/file/d/1uwpreJ1ekZWLFdA4lARyEnJOQTP_q6Rv/view) from Vice Chancellor, BRAC University
+
+- Obtained 38th position (team Bitchamps) in Inter University Girls' Programming Contest Season 2 arranged by NSU.<br>
+  Contest Standings : https://toph.co/c/iugpc-s2/standings
+
+- Participated in an online competition arranged by a non-profitable organization Techwarno and obtained 2nd runner up position on their informatics olympiad and 1st runner up position on the digital art event.<br>
+  Digital Art event certification link :  
+  https://drive.google.com/file/d/1pquqVb_D0yM5A2O2ZSSvSVKND-xnIm9c/view?usp=sharing<br>
+  Informatics Olympiad certification link :
+  https://drive.google.com/file/d/1xKO-vr-PuAEIIB8pj5t1Oo0D5aeQbUMd/view?usp=sharing
+
+- Supervisor of Web development, MIST Innovation Club
 
 <br />
 
 ---
-## PROJECT
----
-* **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
-* **[Saucedemo Test Automation](https://github.com/Tahanima/saucedemo-test-automation):** UI test automation project of [this](https://www.saucedemo.com) site  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, Git
-* **[Restful-Booker API Test Automation](https://github.com/Tahanima/restful-booker-api-test-automation):** API test automation project against [this](https://restful-booker.herokuapp.com) api  
-**Tools** &#124; **Technologies:** Java, REST Assured, TestNG, Git  
 
-<br />
-  
+## References:
+
 ---
-## SKILLS  
----
-* **Languages:** Java, C++, Ruby, SQL
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
+
+- Raiyan Rahman <br>
+  Lecturer, department of CSE<br>
+  Military Institute of Science and Technology<br>
+  Contact: +8801730785310<br>
+  Email:
+  raiyan.cse@gmail.com,
+  raiyan@cse.mist.ac.bd
+
+- Shahrin Manzur <br>
+  Software QA Engineer
+  Bongo - Stellar Digital Ltd.<br>
+  Contact : +8801675489959<br>
+  Email : shahrin.manzur@bongobd.com
