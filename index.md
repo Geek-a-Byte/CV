@@ -9,13 +9,16 @@ title: Resume
 
 ---
 
-**_B.Sc. at Computer Science and Engineering from Military Institute of Science and Technology (still continuing)_** <br>
-**Higher Secondary Certificate : Holy Cross College (Year of passing , 2018)** <br>
-**Secondary School Certificate : Holy Cross Girls’ High School (Year of passing, 2016)**
+- B.Sc. at Computer Science and Engineering from Military Institute of Science and Technology (still continuing)
+- Higher Secondary Certificate : Holy Cross College (Year of passing , 2018)
+- Secondary School Certificate : Holy Cross Girls’ High School (Year of passing, 2016)
+
+---
 
 ### Academic Result
 
-**_MIST Dean’s List of honor - 2019_** &middot; **_Academic Session (2018 - 2019)_**
+- MIST Dean’s List of honor - 2019
+  **_Academic Session (2018 - 2019)_**
 
 <br/>
 
@@ -25,43 +28,42 @@ title: Resume
 
 ---
 
-### **_[Foodonation](https://github.com/Geek-a-Byte/Foodonation):_** &middot; **_Group Project_**
+### **_[Foodonation](https://github.com/Geek-a-Byte/Foodonation)_** &middot; **_Group Project_**
 
-- **_*Description*_** :
+- **_Description_** :
   an android app intended to serve food for the needy people
 
-- **_*Language/Framework*_** :
+- **_Language/Framework_** :
   Flutter, Dart
 
-- **_*Platform*_**: Android
+- **_Platform_**: Android
 
-### **_[BD-Health](https://github.com/Geek-a-Byte/BD-Health):_** &middot; **_Personal Project_**
+### **_[BD-Health](https://github.com/Geek-a-Byte/BD-Health)_** &middot; **_Personal Project_**
 
-- **_*Description*_** :
+- **_Description_** :
   a frontend development project intended for the doctors to post medical blogs
   and the patients to share their stories as
   well. (academic solo project)
 
-- **_*Language/Framework*_**
+- **_Language/Framework_**
   Html, CSS, Javascript and Bootstrap
-- **_*Website Link :*_** https://geek-a-byte.github.io/BD-Health/
+- **_Website Link :_** https://geek-a-byte.github.io/BD-Health/
 
-### **_[2048 Game](https://github.com/Geek-a-Byte/Game2048):_** &middot; **_Personal Project_**
+### **_[2048 Game](https://github.com/Geek-a-Byte/Game2048)_** &middot; **_Personal Project_**
 
-- **_*Description*_** : a game application where the user needs to swipe the numbers of 2’s power in a board in order to make a grand total of 2048. (academic dual project )
+- **_Description_** : a game application where the user needs to swipe the numbers of 2’s power in a board in order to make a grand total of 2048. (academic dual project )
 
-- **_*Language/Framework*_** : Java Swing
-- **_*Github Link :*_** https://github.com/Geek-a-Byte/Game2048
+- **_Language/Framework_** : Java Swing
 
-### **_[Sudoku](https://github.com/Geek-a-Byte/Sudoku):_** &middot; **_Personal Project_**
+### **_[Sudoku](https://github.com/Geek-a-Byte/Sudoku)_** &middot; **_Personal Project_**
 
-- **_*Description*_** : traditional sudoku game.
-- **_*Language/Framework*_** : C
+- **_Description_** : traditional sudoku game.
+- **_Language/Framework_** : C
 
 ### **_[MIST Innovation Club Website](https://github.com/Geek-a-Byte/Sudoku):_** &middot; **_Group Project_**
 
-- **_*Description*_** : the official website of MIST Innovation Club
-- **_*CMS &#124; Tool*_** : Wordpress, Elementor
+- **_Description_** : the official website of MIST Innovation Club
+- **_CMS &#124; Tool_** : Wordpress, Elementor
   Website Link : http://innovationclub.mist.ac.bd/
 
 <br/>
@@ -72,10 +74,10 @@ title: Resume
 
 ---
 
-- Programming Languages : C++, C, Java, Dart
-- Database : Firebase
-- IDE : Codeblocks, IntelliJ, Visual - Studio Code , Sublime Text
-- Technologies : Git,HTML, CSS, Adobe Illustrator
+- **_Programming Languages_** : C++, C, Java, Dart
+- **_Database_** : Firebase
+- **_IDE_** : Codeblocks, IntelliJ, Visual - Studio Code , Sublime Text
+- **_Technologies_** : Git,HTML, CSS, Adobe Illustrator
 
 <br/>
 
@@ -104,7 +106,7 @@ title: Resume
 
 ---
 
-- Raiyan Rahman <br>
+- **_Raiyan Rahman_** <br>
   Lecturer, department of CSE<br>
   Military Institute of Science and Technology<br>
   Contact: +8801730785310<br>
@@ -112,7 +114,7 @@ title: Resume
   raiyan.cse@gmail.com,
   raiyan@cse.mist.ac.bd
 
-- Shahrin Manzur <br>
+- **_Shahrin Manzur_** <br>
   Software QA Engineer
   Bongo - Stellar Digital Ltd.<br>
   Contact : +8801675489959<br>
